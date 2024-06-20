@@ -12,6 +12,12 @@
 
 
 
+## 安装 VuePress 
+
+  ```
+yarn add -D vuepress
+  ```
+
 ## 运行项目
 
   ```bash
